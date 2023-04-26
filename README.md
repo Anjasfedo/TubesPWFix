@@ -12,7 +12,7 @@ php artisan key:generate
 php artisan migrate
 
 6. Seeder database
-php artiean db:seed
+php artisan db:seed
 
 7. Menjalankan sistem
 php artisan serve
